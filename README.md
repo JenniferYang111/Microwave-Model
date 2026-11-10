@@ -13,3 +13,8 @@ Open index.html in a modern browser. No installation or build step is required.
 7. At zero, heating stops, the door unlocks, a beep sounds when browser audio is available, and Heating complete is displayed.
 
 Files: index.html (structure), style.css (appearance), and script.js (interaction logic). Keep all three in the same folder.
+
+
+## 在线体验 / Live demo
+
+[打开微波炉交互原型 / Open microwave simulator](https://jenniferyang111.github.io/Microwave-Model/)
